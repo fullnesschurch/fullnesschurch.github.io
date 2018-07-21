@@ -2,13 +2,6 @@ body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legen
 			margin: 0;padding: 0;
 		}
 		@media screen and (max-device-width: 1024px){
-			input[type="button"], input[type="submit"], input[type="reset"] {
-
-                                -webkit-appearance: none;
-
-                        }
-
-                        textarea {  -webkit-appearance: none;}
 			
 			li{
 				list-style: none;
